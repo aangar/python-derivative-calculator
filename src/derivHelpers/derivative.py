@@ -1,4 +1,4 @@
-from DerivEnums import SymbolEnums as SE
+from src.DerivEnums import SymbolEnums as SE
 def convert_to_enum_list(sequence):
     """
     Converts a sequence of characters into enums of the function.

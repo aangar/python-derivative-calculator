@@ -1,8 +1,8 @@
 import os
 from time import sleep
-from derivHelpers import derivative
-from DerivEnums import SymbolEnums as se
-from derivtests import test_main as dtest
+from src.derivHelpers import derivative
+from src.DerivEnums import SymbolEnums as se
+from dtests.main import test_main as dtest
 LINEAR_TEST = '3x+2'
 BINOMIAL_POSITIVE_TEST = 'x^2+2x^2-3'
 TRINOMIAL_POS_TEST = '4x^4+3x^3-2x^2-4'
