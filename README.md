@@ -8,3 +8,6 @@
 - Ingest a string of a function, and then print the derivative of given function to the user.
 - Ingest a string of a function, derive it, then calculate the rate-of-change at point (x, f(x))
 - Estimate the derivative by using point-slope form.
+
+### Important Note
+This library is not something that will be consistently maintained or updated, being quite honest it's a project created, developed, and worked on in free time. TL;DR - free time project, sorry for any inconveniences!  
